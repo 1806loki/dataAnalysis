@@ -46,3 +46,5 @@ Built With
 TypeScript
 React
 Mantine v7
+![Screenshot 2024-04-19 231346](https://github.com/1806loki/dataAnalysis/assets/127595726/8a22223c-f6dc-4529-9aec-82d2564925cb)
+![Screenshot 2024-04-19 231340](https://github.com/1806loki/dataAnalysis/assets/127595726/6a9e7cda-ceaa-4274-b6fb-d16091baf73a)
