@@ -9,7 +9,7 @@ This project analyzes the Wine Data Set to calculate statistical measures such a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/wine-data-analysis.git
+   git clone https://github.com/1806loki/dataAnalysis.git
    ```
 
 2. Install dependencies using Yarn:
@@ -46,4 +46,3 @@ Built With
 TypeScript
 React
 Mantine v7
- 
