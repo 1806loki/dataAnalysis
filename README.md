@@ -47,3 +47,5 @@ TypeScript
 React
 Mantine v7
 # dataAnalysis
+![Screenshot 2024-04-19 231346](https://github.com/1806loki/dataAnalysis/assets/127595726/3cf365c9-b7e8-48e6-a864-1547ec8f9b84)
+![Screenshot 2024-04-19 231340](https://github.com/1806loki/dataAnalysis/assets/127595726/c4be3e57-b1de-4f9e-bf30-58a6bd21b070)
